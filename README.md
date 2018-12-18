@@ -1,25 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Testing-app-for-rails
+The purpose of this reository is to have a toy CRUD application for rails to allow me to 'play' around in the rails environment without affecting the work produced for the actual facebook rails project 
